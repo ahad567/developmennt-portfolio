@@ -29,3 +29,6 @@ section{
 .dream-big{
     background-image:url(images/dream-big.png)
 }
+.experience-item{
+    box: shadow 10px;
+}
